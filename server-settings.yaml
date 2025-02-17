@@ -1,0 +1,6 @@
+server-name: "Cool Server"
+disks:
+- diskA
+- diskB
+- disk C
+
