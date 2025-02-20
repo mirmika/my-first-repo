@@ -1,1 +1,1 @@
-echo "some Text"
+echo "some Text"echo "Test conflicts"
